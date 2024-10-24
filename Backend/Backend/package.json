@@ -1,0 +1,19 @@
+{
+  "name": "network_simulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dijkstrajs": "^1.0.3",
+    "express": "^4.21.1",
+    "graph-data-structure": "^4.1.0"
+  }
+}
+
+
