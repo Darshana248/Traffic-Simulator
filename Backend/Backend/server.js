@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3000;
+const port = 5000;
 
 // Traffic generation rates at different time intervals
 const trafficRates = {

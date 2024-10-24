@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+#network-container {
+  margin: 20px auto;
+}
+
+#network-graph {
+  border: 1px solid black;
+  margin: 0 auto;
+}
+
+h2 {
+  margin-top: 20px;
+}
